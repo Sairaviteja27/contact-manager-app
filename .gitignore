@@ -1,2 +1,4 @@
 cont_env
 crudproject/__pycache__
+contacts_crud/__pycache__
+contacts_crud/migrations/__pycache__
